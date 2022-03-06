@@ -1,22 +1,3 @@
-Package: google-chrome-stable
-Version: 99.0.4844.51-1
-Architecture: amd64
-Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 261275
-Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.16), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.5.12), libdrm2 (>= 2.4.38), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.4.1), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Recommends: libu2f-udev, libvulkan1
-Provides: www-browser
-Priority: optional
-Section: web
-Filename: pool/main/g/google-chrome-stable/google-chrome-stable_99.0.4844.51-1_amd64.deb
-Size: 83028384
-SHA256: a19354b3f8eee069cec49cdc44bea43d7f0cbddf6a94bb49c1e221a4ee757812
-SHA1: 3a4826323b3447a10f329cd8b5975dff7aa6e88d
-MD5sum: 8d4490de6d556fbfed1bed7ee3f745ef
-Description: The web browser from Google
- Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
-
 Package: uget
 Version: 2.2.3-0ubuntu0~xenial
 Architecture: amd64

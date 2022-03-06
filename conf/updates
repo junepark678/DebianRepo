@@ -1,0 +1,6 @@
+Name: UgetMirror
+Method: https://ppa.launchpadcontent.net/plushuang-tw/uget-stable/ubuntu
+Suite: eoan
+Components: main
+Architectures: *
+VerifyRelease: 8BE3EAB5EBE14A20
