@@ -4,3 +4,15 @@ Architectures: amd64
 Components: main
 Description: Repo
 SignWith: ABAF3A3F2ED4F6A69BD6820461D8801D97852CDC
+Contents: .gz
+
+Label: UgetMirror
+Update: - UgetMirror
+Codename: uget
+Architectures: amd64
+Components: main
+Description: Mirror for the uget mirror
+UDebComponents: main
+Contents: .gz
+SignWith: ABAF3A3F2ED4F6A69BD6820461D8801D97852CDC
+
