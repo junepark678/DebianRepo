@@ -1,0 +1,18 @@
+Label: Repo
+Codename: focal
+Date: Sun, 06 Mar 2022 04:19:27 UTC
+Architectures: amd64
+Components: main
+Description: Repo
+MD5Sum:
+ faab79ffb065a79c2075c3c8508db261 2239 main/binary-amd64/Packages
+ c9c26c36176f2ad37d9cf60551f015f4 1127 main/binary-amd64/Packages.gz
+ 635073ddadf35cbb73f2ddfbd89f8620 66 main/binary-amd64/Release
+SHA1:
+ c5e2a5453d54abc6d691af1936325e426cb7d06e 2239 main/binary-amd64/Packages
+ f59521df51f34c79c92bd0563137b9c0d00a4622 1127 main/binary-amd64/Packages.gz
+ 86d6bed3441dbb078ef68b0899fe65174b092e31 66 main/binary-amd64/Release
+SHA256:
+ d17e18b9d149ea8dba7457f2638029028dd427053dfdd6d46c33121c0296c569 2239 main/binary-amd64/Packages
+ 4b9571950728f1b7bdff7439a854192a68b3e0e6c27bde5b99bedb35ccdfdae2 1127 main/binary-amd64/Packages.gz
+ 78541c9c467f017e765c7f7c2ce6a4aee6ebc04893c2f165918a2a309c724cb7 66 main/binary-amd64/Release
